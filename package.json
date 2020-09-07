@@ -1,0 +1,10 @@
+{
+  "name": "bens-first-app",
+  "version": "0.0.1",
+  "description": "new app that is super cool",
+  "main": "index.js",
+  "repository": "git@github.com:olc-digital/ben-app-1.git",
+  "author": "Ben Hawkins",
+  "license": "MIT",
+  "private": false
+}
